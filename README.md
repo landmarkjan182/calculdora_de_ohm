@@ -9,7 +9,7 @@ Este projeto é uma calculadora interativa feita em Python que permite calcular 
 A **Lei de Ohm**, formulada por **Georg Simon Ohm** em 1827, descreve a relação entre três grandezas fundamentais da eletricidade:
 
 \[
-V=R.I
+{V = I \ R}
 \]
 
 Onde:
